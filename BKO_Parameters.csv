@@ -1,0 +1,11 @@
+Crypto,Currency,N_sd,bb_win,Band_win,Price_win,ChannelWidthMult,N_mins,Limit_order_lean,Initial_cash,N_Lag,Open_position,Clip_Size_Percent,Nb_Sub_Strategies,lag,OrderType
+BTC,USDT,2,20,150,150,1.15,30,0.001,2500,0,0,0.6,1,15,market
+ETH,USDT,2,20,150,150,1.15,30,0.001,2500,0,0,0.6,1,0,market
+XRP,USDT,2,20,150,150,1.15,30,0.001,2500,0,0,1,1,0,market
+ADA,USDT,2,20,150,150,1.15,30,0.001,2500,0,0,1,1,0,market
+BTCUP,USDT,2,30,150,150,1.15,30,0.001,1500,0,0,1,1,0,market
+ETHUP,USDT,2,30,150,150,1.15,30,0.001,1000,0,0,1,1,0,market
+BTCUP,USDT,2.5,30,50,50,1.5,15,0.001,1000,0,0,1,1,0,market
+ETHUP,USDT,2,30,50,50,1.5,15,0.001,1000,0,0,1,1,0,market
+BTC,USDT,2,20,150,150,1.15,30,0.001,2000,0,0,0.4,1,15,market
+ETH,USDT,2,20,150,150,1.15,30,0.001,2000,0,0,0.4,1,0,market
